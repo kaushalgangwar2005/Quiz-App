@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "What is the full form of HTML?",
+    option1: "Hyper Text Markup Language",
+    option2: "HighText Machine Language",
+    option3: "Hyper Tool Multi Language",
+    option4: "None of the above",
+    ans: 1,
+  },
+  {
+    question: "What is the main purpose of CSS?",
+    option1: "Database",
+    option2: "Styling",
+    option3: "Server",
+    option4: "Layout Design",
+    ans: 2,
+  },
+  {
+    question: "What is JavaScript mainly used for?",
+    option1: "Structure",
+    option2: "Styling",
+    option3: "Data Handling",
+    option4: "Interactivity",
+    ans: 4,
+  },
+  {
+    question: "Which hook is used to manage state in React?",
+    option1: "useState",
+    option2: "useFetch",
+    option3: "useClass",
+    option4: "useEffect",
+    ans: 1,
+  },
+  {
+    question: "React is primarily considered as?",
+    option1: "Database",
+    option2: "Server",
+    option3: "UI Library",
+    option4: "Framework",
+    ans: 3,
+  },
+];
